@@ -1,6 +1,8 @@
 # PopCat.exe
 Turn your Windows Recycle Bin into the famous and beloved POP CAT :)
 
+***Turn the sound on for full experience***
+
 https://user-images.githubusercontent.com/31712173/169914198-80495676-86e9-4fb1-a310-5a61919d3fdc.mp4
 
 
