@@ -37,7 +37,7 @@ You need to download the following files:
 
 ### Add pop sound effect when emptying Recycle Bin
 - Open RUN **(via Windows Key + R)**
-- Type: `mmsys,cpl`
+- Type: `mmsys.cpl`
 - Open Sounds tab
 - Scroll to `File Explorer` section then choose `Empty Recycle Bin`
 - Select ***Browse*** and choose ***Pop Cat Sound***
