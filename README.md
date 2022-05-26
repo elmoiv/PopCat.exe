@@ -8,10 +8,11 @@ https://user-images.githubusercontent.com/31712173/169914198-80495676-86e9-4fb1-
 
 # Requirements
 You need to download the following files:
-- [Pop Cat Closed Icon](https://github.com/elmoiv/PopCat.exe/blob/main/requirements/popCatClosed.ico?raw=true)
-- [Pop Cat Open Icon](https://github.com/elmoiv/PopCat.exe/blob/main/requirements/popCatOpen.ico?raw=true)
+- [Pop Cat Closed DLL](https://github.com/elmoiv/PopCat.exe/blob/main/requirements/popCatClosed.dll?raw=true)
+- [Pop Cat Open DLL](https://github.com/elmoiv/PopCat.exe/blob/main/requirements/popCatOpen.dll?raw=true)
 - [Pop Cat Sound](https://github.com/elmoiv/PopCat.exe/blob/main/requirements/popCatSound.wav?raw=true)
 
+*Thanks to [ajenpan](https://github.com/ajenpan): Pop Cat icons extensions are renamed to .dll to enable auto refresh without editing registery*
 # How to
 
 ### Replacing Recycle Bin Icons
@@ -23,7 +24,7 @@ You need to download the following files:
 
 ![image](https://user-images.githubusercontent.com/31712173/169913034-56a43164-a3d5-4ef3-bc4c-3d2155c1aee4.png)
 
-### Enable Automatic Refresh
+<!-- ### Enable Automatic Refresh
 - Open RUN **(via Windows Key + R)**
 - Type: `regedit`
 - Go to: `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon`
@@ -33,9 +34,9 @@ You need to download the following files:
   - full
 - If each key value ends with `.ico`, Add `,0` at the end of each value.
 
-![image](https://user-images.githubusercontent.com/31712173/169913157-8ec2e500-5431-40fb-9c5e-551c051f819e.png)
+![image](https://user-images.githubusercontent.com/31712173/169913157-8ec2e500-5431-40fb-9c5e-551c051f819e.png) -->
 
-### Add pop sound effect when emptying Recycle Bin
+### Add Pop Sound Effect When Emptying Recycle Bin
 - Open RUN **(via Windows Key + R)**
 - Type: `mmsys.cpl`
 - Open Sounds tab
